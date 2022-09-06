@@ -1,0 +1,2 @@
+# Rubik-s-Cube-Solver
+The project aims to puzzle out a Rubik cube using python as the programming language and OpenCV as the Image processing Counterpart.  The program is designed such that the user will feed the images in a predefined way with green, red, orange, blue, white and yellow in the centres of the Front, Right, Left, Back, Upper and Down face respectively. The code will take the average HSV values of each of the nine different regions of interest.  Finally, our program will develop the optimal solution for the same.
